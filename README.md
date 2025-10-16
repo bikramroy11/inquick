@@ -26,7 +26,7 @@ Enjoy a smooth, mobile-friendly interface powered by React.js
 ✅ Image Uploads – Integrated ImageKit API for media hosting.
 ✅ Admin Dashboard – Manage posts, comments, and user data.
 ✅ Responsive UI – Optimized for all screen sizes.
-✅ Fast Performance – Built with the lightweight MERN stack.
+✅ Fast Performance – Built with the lightweight MERN stack.\
 
 🧠 Tech Stack
 Layer	Technology
