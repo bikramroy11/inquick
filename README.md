@@ -3,7 +3,6 @@
 inQuick is a full-stack MERN application that delivers tech updates, academic concepts, tutorials, and career roadmaps — all enhanced by AI-generated insights and media uploads via ImageKit.
 It’s designed for creators and learners who want a fast, interactive, and intelligent content-sharing experience.
 
-🎥 Watch Demo on YouTube
 
 🚀 Overview
 
